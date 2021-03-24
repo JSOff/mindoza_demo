@@ -184,7 +184,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"Mindoza_tile copie.png",
+         "image":"Mindoza_tile.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -197,7 +197,7 @@
         {
          "columns":16,
          "firstgid":241,
-         "image":"Mindoza_ext copie.png",
+         "image":"Mindoza_ext.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -210,11 +210,11 @@
         {
          "columns":16,
          "firstgid":481,
-         "image":"Mindoza_objects copie.png",
+         "image":"Mindoza_objects.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
-         "name":"Mindoza_objects copie",
+         "name":"Mindoza_objects",
          "spacing":0,
          "tilecount":240,
          "tileheight":32,
