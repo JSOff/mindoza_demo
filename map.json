@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"GitHub\/mindoza_demo\/map.json"
+         "target":"..\/GitHub\/mindoza_demo\/map.json"
         }
     },
  "height":80,
@@ -184,7 +184,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"@BIBLIOTHEQUE\/Mindoza_tile.png",
+         "image":"..\/@BIBLIOTHEQUE\/Mindoza_tile.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -195,34 +195,16 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
          "firstgid":241,
-         "image":"@BIBLIOTHEQUE\/Mindoza_ext copie.png",
-         "imageheight":480,
-         "imagewidth":512,
-         "margin":0,
-         "name":"Mindoza_ext",
-         "spacing":0,
-         "tilecount":240,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"Mindoza_ext.tsx"
         }, 
         {
-         "columns":16,
          "firstgid":481,
-         "image":"@BIBLIOTHEQUE\/Mindoza_objects copie.png",
-         "imageheight":480,
-         "imagewidth":512,
-         "margin":0,
-         "name":"Mindoza_objects copie",
-         "spacing":0,
-         "tilecount":240,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"Mindoza_objects copie.tsx"
         }, 
         {
          "firstgid":721,
-         "source":"GitHub\/mindoza_demo\/FLOORS.tsx"
+         "source":"FLOORS.tsx"
         }],
  "tilewidth":32,
  "type":"map",
