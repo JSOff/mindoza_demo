@@ -161,6 +161,19 @@
         {
          "firstgid":241,
          "columns":16,
+         "image":"Mindoza_ext copie.png",
+         "imageheight":480,
+         "imagewidth":512,
+         "margin":0,
+         "name":"ext",
+         "spacing":0,
+         "tilecount":240,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "firstgid":481,
+         "columns":16,
          "image":"Mindoza_objects copie.png",
          "imageheight":480,
          "imagewidth":512,
@@ -172,12 +185,17 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":481,
-         "source":"Mindoza_objects copie.tsx"
-        }, 
-        {
          "firstgid":721,
-         "source":"FLOORS.tsx"
+         "columns":16,
+         "image":"ground 2 copie.png",
+         "imageheight":480,
+         "imagewidth":512,
+         "margin":0,
+         "name":"FLOORS",
+         "spacing":0,
+         "tilecount":240,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
