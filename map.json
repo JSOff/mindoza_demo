@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/GitHub\/mindoza_demo\/map.json"
+         "target":"GitHub\/mindoza_demo\/map.json"
         }
     },
  "height":80,
@@ -184,7 +184,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/@BIBLIOTHEQUE\/Mindoza_tile.png",
+         "image":"@BIBLIOTHEQUE\/Mindoza_tile.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
