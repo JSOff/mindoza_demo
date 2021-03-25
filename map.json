@@ -160,7 +160,16 @@
         }, 
         {
          "firstgid":241,
-         "source":"Mindoza_ext.tsx"
+         "columns":16,
+         "image":"Mindoza_objects copie.png",
+         "imageheight":480,
+         "imagewidth":512,
+         "margin":0,
+         "name":"objects",
+         "spacing":0,
+         "tilecount":240,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "firstgid":481,
